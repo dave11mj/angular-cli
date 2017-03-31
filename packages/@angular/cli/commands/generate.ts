@@ -62,7 +62,8 @@ const aliasMap: { [alias: string]: string } = {
   'm': 'module',
   'p': 'pipe',
   'r': 'route',
-  's': 'service'
+  's': 'service',
+  'a': 'animation'
 };
 
 export default GenerateCommand;
